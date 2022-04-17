@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalsingh9884
-- 👀 I’m interested in FullStack Develop er and android development
+- 👀 I’m interested in FullStack Developer and android development
 - 🌱 I’m currently learning FullStack And Android 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
