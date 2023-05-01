@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/1a/7e/af/1a7eaf30058171ba615aab9f9baaf541.png)(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcode-logo--66146688263245689%2F&psig=AOvVaw1X7sagmYLQSe5ykQsPlLJT&ust=1683023470941000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiNmZT10_4CFQAAAAAdAAAAABAY))](https://vishalsingh.io)
+[![MasterHead](https://i.pinimg.com/originals/1a/7e/af/1a7eaf30058171ba615aab9f9baaf541.png)(https://vishalsingh.io)
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A passionate FullStack & Blockchain developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
